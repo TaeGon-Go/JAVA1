@@ -15,12 +15,6 @@ public class comment {
 		/**               				 		 		
 		*/
 		
-		int a = 3;
-		float b = 1.0F;
-		double c = a + b;
-		
-		System.out.println(c);
-		
 
 	}
 
